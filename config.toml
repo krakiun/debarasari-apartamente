@@ -1,0 +1,4 @@
+baseURL = 'https://debarasari-apartamente.recomand.app/'
+languageCode = 'ro-ro'
+title = 'Debarasari Apartamente'
+theme = 'ananke'
